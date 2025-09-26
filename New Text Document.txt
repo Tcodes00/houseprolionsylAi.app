@@ -1,0 +1,8 @@
+house_price_deployment/
+│
+├── app.py                          # Main Streamlit web application
+├── model_training.py               # Model training with your CSV data
+├── requirements.txt                # Dependencies
+├── synthetic_house_prices.csv      # Your dataset
+├── house_price_model.joblib        # Trained model (will be created)
+└── README.md                       # Deployment instructions
